@@ -25,10 +25,10 @@ Each `.json` file in the validation/training folders contains an `annotation` ar
 
 # Expected outcome
 
-Please fork this repo and commit your work there.
-
 We expect to find a `train.py` script that will be responsible for training the network and saving checkpoints to disk and a `test.py` to produce inference results (showing the original image and the predicted value) for a given checkpoint.
 
 There are a lot of things to consider, such as the loss function, network architecure, augmentations, evaluation metrics, etc, which we will leave up to you. Please be sure to document your tought process as much as possible in a separate `.md` file.
+
+The resulting project should be delivered as a `zip` file to the designated recipient. Please do not fork.
 
 
