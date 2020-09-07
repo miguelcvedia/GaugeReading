@@ -1,0 +1,24 @@
+{
+    "image": {
+        "file_name": "gauge.pressure.00-00057",
+        "id": "637209152816173221",
+        "width": 640,
+        "height": 480
+    },
+    "annotation": [
+        {
+            "id": 1,
+            "image_id": "637209152816173221",
+            "area": 50621,
+            "bbox": [
+                199,
+                128,
+                227,
+                223
+            ],
+            "class_values": [
+                0.0
+            ]
+        }
+    ]
+}
