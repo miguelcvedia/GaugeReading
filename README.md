@@ -29,6 +29,8 @@ We expect to find a `train.py` script that will be responsible for training the 
 
 There are a lot of things to consider, such as the loss function, network architecure, augmentations, evaluation metrics, etc, which we will leave up to you. **Please be sure to document your tought process as much as possible in a separate `.md` file.**
 
+Code structure and usage instructions will be taken into account when evaluating the solution, so be sure to keep that in mind.
+
 The resulting project should be delivered as a `zip` file to the designated recipient. Please do not fork.
 
 
